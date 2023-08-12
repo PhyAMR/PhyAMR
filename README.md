@@ -11,8 +11,9 @@ Since I study physics I will post here a veriety of projects (all of them relate
 * [ ] Data Science/Analysis
 * [ ] Machine learning (and everything that surround this concept)
 
-**Since the profile is knew (and I'm knew into programming), I will change this part when I do a projecto or learn new things**
+**Since the profile is knew (and I'm knew into programming), I will change this part when I do a project or learn new things**
 
+> What your brain is aware of is what you perceive; if you're not mindful of the world, think about how much you might be missing.
 <!--
 **PhyAMR/PhyAMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
