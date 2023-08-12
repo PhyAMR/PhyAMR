@@ -1,5 +1,18 @@
 # Hello everyone 👋
 
+## Who am I?
+I am a physics student and have recently developed a great interest in data science, data analysis and of course physics. I really like physics, but also the idea of extracting hidden information in data that, although it is there, not everyone can see.
+
+## What you will see?
+Since I study physics I will post here a veriety of projects (all of them related to physics or work with data; sometimes both):
+
+* [ ] Physics simulatons
+* [ ] Quantum computing
+* [ ] Data Science/Analysis
+* [ ] Machine learning (and everything that surround this concept)
+
+**Since the profile is knew (and I'm knew into programming), I will change this part when I do a projecto or learn new things**
+
 <!--
 **PhyAMR/PhyAMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
