@@ -1,4 +1,4 @@
-[![MasterHead]([https://physics.mcmaster.ca/~wadsley/research/clump.gif](https://scitechdaily.com/images/Spiral-Galaxy.gif))]
+
 <h1 align="center">Hi 👋, I'm Álvaro Méndez</h1>
 <h3 align="center">A physics students who loves to learn knew thinks</h3>
 <img align="right" alt="Sun" width="250" src="https://bestanimations.com/media/sun/2013093947amazing-solar-sun-closeup.gif">
