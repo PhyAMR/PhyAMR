@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Álvaro Méndez</h1>
-<h3 align="center">A physics students who loves to learn knew thinks</h3>
+<h3 align="center">A physics students who loves to learn new thinks</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phyamr&label=Profile%20views&color=0e75b6&style=flat" alt="phyamr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phyamr" alt="phyamr" /></a> </p>
